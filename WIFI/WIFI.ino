@@ -1,5 +1,4 @@
 
-// Load Wi-Fi library
 #include <WiFi.h>
 
 // Replace with your network credentials
